@@ -1,5 +1,5 @@
 #Vivek Chauhan
-.file "lab5.s"
+.file "encryption.s"
 .section .data
     input: 
     .quad 0   # Space for eight characters
